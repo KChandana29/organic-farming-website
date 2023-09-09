@@ -1,7 +1,6 @@
 # organic-farming-website
 Organic Website
-This website provides information on the history of organic farming, the current scenario in the industry, and interesting facts about organic products. This README file contains essential information about the project, including setup instructions.
-
+This website provides information on the history of organic farming, the current scenario in the industry, and interesting facts about organic products. 
 ## Features
 
 - **Rotating Navbar**: The website features a dynamic rotating navigation bar that adds a modern touch to the user experience.
