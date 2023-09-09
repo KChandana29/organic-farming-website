@@ -1,15 +1,21 @@
 # organic-farming-website
 Organic Website
-Introduction
-Welcome to the Organic Website, a platform dedicated to promoting organic farming and sustainable agriculture. This website provides information on the history of organic farming, the current scenario in the industry, and interesting facts about organic products. This README file contains essential information about the project, including setup instructions.
+This website provides information on the history of organic farming, the current scenario in the industry, and interesting facts about organic products. This README file contains essential information about the project, including setup instructions.
 
-Features
-Rotating Navbar: The website features a rotating navbar with links to different sections.
-History: Learn about the history and origins of organic farming.
-Current Scenario: Stay updated with the current state of the organic agriculture industry.
-Facts: Discover interesting facts and benefits of organic products.
-Responsive Design: The website is designed to be accessible on various devices and screen sizes.
-Technologies Used
-HTML
-CSS
-JavaScript
+## Features
+
+- **Rotating Navbar**: The website features a dynamic rotating navigation bar that adds a modern touch to the user experience.
+
+- **History**: Learn about the rich history and origins of organic farming, including its evolution and key milestones.
+
+- **Current Scenario**: Stay updated with the current state of the organic agriculture industry, including trends and challenges.
+
+- **Facts**: Discover interesting facts, benefits, and myths surrounding organic products.
+
+## Technologies Used
+
+- HTML5: Used for structuring the web content.
+  
+- CSS: Applied for styling and layout design, including responsive design for various screen sizes.
+  
+- JavaScript: Used to implement the rotating navbar and provide interactivity to the website.
