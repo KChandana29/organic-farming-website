@@ -14,7 +14,7 @@ This website provides information on the history of organic farming, the current
 
 ## Technologies Used
 
-- HTML5: Used for structuring the web content.
+- HTML: Used for structuring the web content.
   
 - CSS: Applied for styling and layout design, including responsive design for various screen sizes.
   
